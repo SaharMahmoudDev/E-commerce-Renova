@@ -2,6 +2,8 @@
 
 A responsive, mobile-first online store built with vanilla JavaScript: multiple product categories, product details, search, cart, favorites, and sign-in.
 
+![Renova E-commerce preview](https://raw.githubusercontent.com/SaharMahmoudDev/SaharMahmoudDev.github.io/main/images/renova-light.jpg)
+
 **Live demo:** https://renova-store.pages.dev/
 
 ## Features
